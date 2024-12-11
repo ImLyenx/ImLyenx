@@ -6,7 +6,7 @@
 
 I'm a **Web Dev Student🎓** based in Paris. I'm a **Tech Enthusiast 💻** passionate about learning and working with new tech. I love building interesting and amazing products that make life easier.
 
-### 📬 Find me on
+### :mailbox_closed: Find me on
 
 [![Github Badge](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/ImLyenx/)](https://github.com/ImLyenx/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huberic/)](https://www.linkedin.com/in/huberic)
@@ -14,13 +14,13 @@ I'm a **Web Dev Student🎓** based in Paris. I'm a **Tech Enthusiast 💻** pas
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently member of my school's Junior-Enterprise, [DeVinci Junior](https://devincijunior.fr)
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I enjoy working on
-  - 🛠 DIY Raspberry Pi & Arduino projects
-  - Web development
-- 📝 I write technical blogs and articles about my projects
+- :rocket: I’m currently member of my school's Junior-Enterprise, [DeVinci Junior](https://devincijunior.fr)
+- :hammer: I enjoy working on
+  - :wrench: DIY Raspberry Pi & Arduino projects
+  - :laptop: Web development
+- :pencil: I write technical blogs and articles about my projects
 - 💬 Ask me about Python, Astro, and other web stuff
-- 📙 Check out my [Resume](https://www.linkedin.com/in/huberic/)
+- :closed_book: Check out my [Resume](https://www.linkedin.com/in/huberic/)
 
 ## I use a lot of cool tech :
 
