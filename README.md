@@ -17,7 +17,7 @@ I'm a **Web Dev Student🎓** based in Paris. I'm a **Tech Enthusiast 💻** pas
 - :rocket: I’m currently member of my school's Junior-Enterprise, [DeVinci Junior](https://devincijunior.fr)
 - :hammer: I enjoy working on
   - :wrench: DIY Raspberry Pi & Arduino projects
-  - :laptop: Web development
+  - :computer: Web development
 - :pencil: I write technical blogs and articles about my projects
 - 💬 Ask me about Python, Astro, and other web stuff
 - :closed_book: Check out my [Resume](https://www.linkedin.com/in/huberic/)
