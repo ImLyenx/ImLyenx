@@ -26,16 +26,16 @@ I'm a **Web Dev Student🎓** based in Paris. I'm a **Tech Enthusiast 💻** pas
 
 ### Languages :
 
-<img src="https://skillicons.dev/icons?perline=9&i=html,css,js,ts,php,py,go,dart" />
+<img src="https://skillicons.dev/icons?perline=9&theme=light&i=html,css,js,ts,php,py,go,dart" />
 
 ### Front-end :
 
-<img src="https://skillicons.dev/icons?perline=9&i=astro,react,tailwind,sass,next,flutter" />
+<img src="https://skillicons.dev/icons?perline=9&theme=light&i=astro,react,tailwind,sass,next,flutter" />
 
 ### Back-end :
 
-<img src="https://skillicons.dev/icons?perline=9&i=express,nodejs,prisma,mysql,symfony,supabase" />
+<img src="https://skillicons.dev/icons?perline=9&theme=light&i=express,nodejs,prisma,mysql,symfony,supabase" />
 
 ### Tools :
 
-<img src="https://skillicons.dev/icons?perline=9&i=git,github,vscode,linux,docker,vite,discordjs,postman,cloudflare,blender,unity,vercel,wordpress,arduino,raspberrypi" />
+<img src="https://skillicons.dev/icons?perline=9&theme=light&i=git,github,vscode,linux,docker,vite,discordjs,postman,cloudflare,blender,unity,vercel,wordpress,arduino,raspberrypi" />
