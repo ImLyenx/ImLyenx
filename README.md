@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Eric, _a.k.a_ Lyenx. I'm a full-stack developer and a student living in Paris.
+### I'm Eric, _a.k.a_ Lyenx. I'm a full-stack developer.
 
 ### A little about me...
 
